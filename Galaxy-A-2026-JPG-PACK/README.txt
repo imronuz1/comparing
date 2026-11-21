@@ -1,0 +1,1 @@
+Open index.html after extracting the ZIP. Local JPG photos included for Galaxy A55, A56 and A27. Other model image links currently require internet access. New prices link to the single Telegram price list; used prices link to individual Telegram messages.
